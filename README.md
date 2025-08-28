@@ -42,6 +42,12 @@ e estou aqui para entender melhor esse impacto e contribuir com soluções que f
 
 ---
 
+## 🌟 Projetos em Destaque
+
+
+
+
+
 
 ## 📫 Conecte-se comigo
 
@@ -52,4 +58,5 @@ e estou aqui para entender melhor esse impacto e contribuir com soluções que f
 
 ✨ Obrigada por visitar meu perfil!
 
-https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
