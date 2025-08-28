@@ -1,62 +1,67 @@
-# 👋 Olá, meu nome é Esther Costa
+# 🎓 Plataforma Interativa para Profissionais de TI
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Apaixonada por **análise de dados**, **desenvolvimento web** e **tecnologia**  
-🚀 Sempre aprendendo e construindo projetos para resolver problemas reais  
+> Projeto acadêmico desenvolvido na disciplina de **Design Profissional em Ciência da Computação** com o objetivo de criar uma plataforma interativa que unifica identidade visual, presença online e portfólio técnico para estudantes e profissionais da área de tecnologia.
 
 ---
 
+## 📌 Descrição
 
-## 🛠 Tecnologias e Competências
-
-**Linguagens e Ferramentas:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-🌻 **Soft Skills:**  
-🔹 Trabalho em equipe  
-🔹 Comunicação  
-🔹 Solução de problemas  
+A proposta central do projeto é oferecer uma solução prática e visualmente atrativa para profissionais de TI apresentarem suas **habilidades**, **experiências** e **projetos** em um só lugar. A plataforma busca resolver o problema da fragmentação de perfis e da falta de consistência na presença digital.
 
 ---
 
+## 💡 Desafio
 
-## 👩‍💻 Sobre mim 
+Muitos estudantes e profissionais enfrentam dificuldades em manter uma presença online **centralizada e atualizada**, o que prejudica a visibilidade e a comunicação profissional.  
+O desafio foi criar uma plataforma que:
 
-🌺 Sou movida pela curiosidade e pelo desejo constante de aprender. Atualmente, estou explorando novas áreas da tecnologia com foco em inovação,
-descoberta e desempenho. Me interesso especialmente pela interseção entre tecnologia, fatores sociais e econômicos 
-e como essas conexões influenciam a vida das pessoas e das comunidades. Acredito que a tecnologia tem o poder de transformar realidades, 
-e estou aqui para entender melhor esse impacto e contribuir com soluções que façam sentido.
-
----
-
-
-## 📈 GitHub Stats
-
-![Esther's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esthercosta&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&icon_color=ff69b4)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthercosta&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4)
+- Integre informações de diferentes fontes (GitHub, LinkedIn)
+- Tenha design responsivo e profissional
+- Permita exportar o portfólio em formatos úteis para recrutadores
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🛠 Tecnologias Utilizadas
 
-
-
-
-
-
-## 📫 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-costa-612524259)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/t3zinha/)
+| Categoria        | Ferramentas e Tecnologias |
+|------------------|---------------------------|
+| **Frontend**     | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend**      | Node.js, Express.js |
+| **Banco de Dados** | (especificar: MySQL, MongoDB, etc.) |
+| **Integrações**  | GitHub API, LinkedIn API |
+| **Controle de Versão** | Git, GitHub |
+| **Infraestrutura** | Hospedagem em nuvem (ex: Vercel, Heroku) |
 
 ---
 
-✨ Obrigada por visitar meu perfil!
+## 🧩 Solução Proposta
 
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+- Definição de identidade visual e navegação intuitiva
+- Layout responsivo com Bootstrap e CSS customizado
+- Integração com APIs externas para importação automática de dados
+- Sistema de autenticação para usuários
+- Exportação de portfólio em PDF
+- Hospedagem em nuvem para acesso global
+
+---
+
+## 📈 Resultados
+
+- Exibição clara e organizada de projetos e informações profissionais
+- Integração automática com GitHub para destacar repositórios relevantes
+- Exportação do portfólio em PDF para facilitar candidaturas
+- Interface adaptável para desktop e dispositivos móveis
+
+---
+
+## 📚 Aprendizados
+
+- Aplicação prática dos conceitos de **Design Profissional** na área de TI
+- Uso de **APIs externas** para integração de dados entre plataformas
+- Criação de uma **identidade visual consistente** para portfólios digitais
+- Aprimoramento das habilidades de **comunicação técnica** e **documentação**
+
+---
+
+- Esther Costa
+
