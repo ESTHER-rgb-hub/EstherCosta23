@@ -13,10 +13,10 @@
 Trabalho em equipe | comunicação | solução de problemas.
 
 
+---
 
-## ciência da computação
-com o intuito de estudar uma área nova e ampliar os horizontes sobre a tecnologia, 
-a minha curiosidade na área de tecnologia, é a inovação, descoberta, desempenho e a intersecção entre fatores sociais e econômicos 
-que influenciam a vida das pessoas e das comunidades. 
+
+## 👩‍💻 Sobre mim
+Sou movida pela curiosidade e pelo desejo constante de aprender. Atualmente, estou explorando novas áreas da tecnologia com foco em inovação, descoberta e desempenho. Me interesso especialmente pela interseção entre tecnologia, fatores sociais e econômicos — e como essas conexões influenciam a vida das pessoas e das comunidades. Acredito que a tecnologia tem o poder de transformar realidades, e estou aqui para entender melhor esse impacto e contribuir com soluções que façam sentido.
 
 
