@@ -36,9 +36,9 @@ e estou aqui para entender melhor esse impacto e contribuir com soluções que f
 
 ## 📈 GitHub Stats
 
-![Esther's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**ESTHER-rgb-hub**&show_icons=true&theme=radical)
+![Esther's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esthercosta&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&icon_color=ff69b4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**ESTHER-rgb-hub**&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthercosta&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4)
 
 ---
 
@@ -52,4 +52,4 @@ e estou aqui para entender melhor esse impacto e contribuir com soluções que f
 
 ✨ Obrigada por visitar meu perfil!
 
-
+https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg
